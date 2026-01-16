@@ -4,12 +4,6 @@ Dataset Overview:
 This dataset contains survey responses regarding our essential research question: Is A Hot Dog a Sandwich? 
 The data was collected through an online survey conducted in 2026. 
 
-Data Dictionary for Hot Dog Survey Dataset
-
-Dataset Overview: 
-This dataset contains survey responses regarding our essential research question: Is A Hot Dog a Sandwich? 
-The data was collected through an online survey conducted in 2025. 
- 
 | Column Name | Description | Data Type | Example Value | 
 |-------------|-------------|-----------|---------------|
 | Timestamp | Marks the creation of a record with a timestamp. | object | 1/15/2026 21:53:05 |
