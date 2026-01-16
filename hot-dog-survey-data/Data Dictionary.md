@@ -14,7 +14,8 @@ The data was collected through an online survey conducted in 2025.
 |-------------|-------------|-----------|---------------|
 | Timestamp | Marks the creation of a record with a timestamp. | object | 1/15/2026 21:53:05 |
 | Do you believe that a hotdog falls under the category of a sandwich? | Records initial yes/no response to research question. | object | No |
-| Are you currently enrolled as an undergraduate or graduate student at the University of Virginia? |Establishes participant as an undergraduate or graduate student at UVa. | object |Yes|
-| What is your field of study or major? | Inquires on respondents' field of study. | object | "women gender and sexuality studies" |
-|What is your current academic year?	| Inquires on students' university year. | object |"Third year"|
+| How strongly do you feel about this opinion? | Establishes strength of belief from numerical range | object | 3 | 
+| What is your school of enrollment? | Inquires on respondents' school | object | "engineering" |
+|What is your current academic year?	| Inquires on students' university year. | object |"3"|
 |Gender: How do you identify?| Inquires on respondent's gender. | object | "Woman"|
+|Frequency: How frequently do you eat hotdogs? | Inquires on frequency | object | "rarely" | 
